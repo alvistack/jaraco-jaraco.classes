@@ -1,0 +1,5 @@
+python-jaraco.classes source: file-without-copyright-information
+python-jaraco.classes source: no-debian-changes
+python-jaraco.classes source: source-contains-prebuilt-windows-binary
+python-jaraco.classes source: source-is-missing
+python-jaraco.classes source: source-package-encodes-python-version
